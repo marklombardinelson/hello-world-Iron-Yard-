@@ -1,9 +1,18 @@
 html {
   text-size-adjust: 100%;
 }
-
+#dialupworld {
+  color: red;
+}
+h1{
+  color: #ff66ff;
+}
+p{
+  font-family: cursive;
+}
 body {
   background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/weather.png");
   margin: 0;
   font: 16px / 1 sans-serif;
 }
+<h2 id="dialupworld">dialupworld</h2>
